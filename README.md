@@ -9,13 +9,13 @@ Insights so far :
  
  head(coronavirus)
  
-    Province.State Country.Region Lat Long       date cases      type continent
-1:                   Afghanistan  33   65 2020-01-22     0 confirmed      Asia
-2:                   Afghanistan  33   65 2020-01-23     0 confirmed      Asia
-3:                   Afghanistan  33   65 2020-01-24     0 confirmed      Asia
-4:                   Afghanistan  33   65 2020-01-25     0 confirmed      Asia
-5:                   Afghanistan  33   65 2020-01-26     0 confirmed      Asia
-6:                   Afghanistan  33   65 2020-01-27     0 confirmed      Asia
+#    Province.State Country.Region Lat Long       date cases      type continent
+#1:                   Afghanistan  33   65 2020-01-22     0 confirmed      Asia
+#2:                   Afghanistan  33   65 2020-01-23     0 confirmed      Asia
+#3:                   Afghanistan  33   65 2020-01-24     0 confirmed      Asia
+#4:                   Afghanistan  33   65 2020-01-25     0 confirmed      Asia
+#5:                   Afghanistan  33   65 2020-01-26     0 confirmed      Asia
+#6:                   Afghanistan  33   65 2020-01-27     0 confirmed      Asia
 
 # considering countries that have lived at least 30 days since the first confirmed case
 
